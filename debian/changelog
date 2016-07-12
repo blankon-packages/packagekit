@@ -1,3 +1,10 @@
+packagekit (1.1.1-1blankon2) tambora; urgency=medium
+
+  * remove 011_xecure_allow_update_system.patch
+  * Add 011_xecure_allow_update_system.diff
+
+ -- Mijortsa <astrojim.blankon@gmail.com>  Tue, 12 Jul 2016 14:37:29 +0700
+
 packagekit (1.1.1-1blankon1) tambora; urgency=medium
 
   * Add 011_xecure_allow_update_system.patch

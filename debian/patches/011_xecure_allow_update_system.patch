@@ -1,0 +1,12 @@
+diff -Naur packagekit-1.1.1.orig/policy/org.freedesktop.packagekit.policy.in packagekit-1.1.1/policy/org.freedesktop.packagekit.policy.in
+--- packagekit-1.1.1.orig/policy/org.freedesktop.packagekit.policy.in	2016-07-11 07:19:33.762324044 +0700
++++ packagekit-1.1.1/policy/org.freedesktop.packagekit.policy.in	2016-07-11 07:50:53.727021889 +0700
+@@ -170,7 +170,7 @@
+     <defaults>
+       <allow_any>auth_admin</allow_any>
+       <allow_inactive>auth_admin</allow_inactive>
+-      <allow_active>auth_admin_keep</allow_active>
++      <allow_active>yes</allow_active>
+     </defaults>
+   </action>
+ 

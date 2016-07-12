@@ -1,0 +1,5 @@
+vendor-debian.diff
+policy.diff
+01_no-distupgrade.patch
+02_aptcc-full-package-origin.patch
+011_xecure_allow_update_system.patch
